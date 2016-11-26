@@ -1,10 +1,6 @@
 Aurin Chakravarty (achakr16)
 Karun Kannan (kkannan1)
 
-600.120.01
-Assignment 6
-Fall 2016
-
 Description: This program takes in various files in a PPM format and can manipulate them in various ways, including cropping, inverting, swapping, and MORE!
 
 Only half of the program is done at this point. The last 5 functionalities will be implemented later.
@@ -17,6 +13,5 @@ imageManip.c: Maniuplates the files to crop, invert, etc
 
 Note: The crop function does not work properly. It DOES crop the image to the proper size, however the pixels are not the same and there are some striations within the image.
 
-      Our program cannot handle comments after row and columns in the PPM file.
+      The program cannot handle comments after row and columns in the PPM file.
 
-Thoughts: Solid assignment for learning. Could have used more time. Maybe a bit more tester files for the smaller functions within the program.
