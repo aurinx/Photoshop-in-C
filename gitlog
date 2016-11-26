@@ -1,0 +1,111 @@
+commit c36a214d56d4b83e78892ec4c132c5002733f774
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Oct 17 19:25:36 2016 -0400
+
+    most functions work, except crop
+
+commit e15efca0c5bf37a0768da727400d4a2581fe1173
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Oct 17 13:13:48 2016 -0400
+
+    program compiles
+
+commit 8d3c5f8eefd80961deb0ff4b93ce5630971ed84e
+Merge: b476b82 47fe61d
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Oct 17 13:06:14 2016 -0400
+
+    merging branches
+
+commit b476b821ff4459823172121a4c6e3b6252688e8d
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Mon Oct 17 13:03:51 2016 -0400
+
+    program compiles
+
+commit 47fe61df147cd9406756da749e887126a7c2cc67
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Sun Oct 16 23:15:57 2016 -0400
+
+    committing
+
+commit 6c37b88d24f5a27ee2a57ce0e6051fe0a5e11d5a
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Oct 16 21:37:38 2016 -0400
+
+    debugging
+
+commit b78da7ace1d784cde638d2d4d261738c62cd118f
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Oct 16 18:21:05 2016 -0400
+
+    wrote main fucntion
+
+commit 4e5965a14ef6d246f55e9d630cd588c491a3269e
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Sun Oct 16 18:20:00 2016 -0400
+
+    ppmIO files
+
+commit 7f2985431b3cb849eef2d2c45524cd6b55e70093
+Merge: 61dd0c4 821eec1
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Sun Oct 16 18:18:45 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:aurinkarun/a6
+
+commit 821eec1d8f133a50aa376e0851e2e43ba8b537ef
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Oct 16 18:18:28 2016 -0400
+
+    image
+
+commit 61dd0c47945ac7132c1561ddd085092d5dcfce2c
+Merge: c6e0714 225ee1c
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Sun Oct 16 18:17:07 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:aurinkarun/a6
+
+commit 225ee1c41d4f6ba57bbbfcc9e808fcf3ffa3198b
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Oct 16 18:15:19 2016 -0400
+
+    converted to include the Image struct
+
+commit c6e0714cd87f1bcc4b9a82d7990df4d9317d305d
+Merge: 54135a5 72155de
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Sun Oct 16 15:12:44 2016 -0400
+
+    committing a6.c
+
+commit 54135a58290bee6a2d19f986be16ebe45a4727e9
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Sun Oct 16 15:10:06 2016 -0400
+
+    adding ppm
+
+commit 72155ded9033f980a5fb129addc2d62c79fc6636
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sun Oct 16 11:52:19 2016 -0400
+
+    properly formatted the include files
+
+commit 7740752689e879ab8db9bba2b2ae0d36f7bbd3ae
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sat Oct 15 20:57:54 2016 -0400
+
+    fixed menu util
+
+commit 755671f3d5cb7a618797869024e9ca897d688fe0
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sat Oct 15 19:36:30 2016 -0400
+
+    implemented the menu
+
+commit c678133d8c568fe0abccb5b393800455b2b3f699
+Author: Karun Kannan <karun.kannan15@gmail.com>
+Date:   Sat Oct 15 18:39:05 2016 -0400
+
+    added that scafolding

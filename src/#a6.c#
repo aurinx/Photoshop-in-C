@@ -1,0 +1,17 @@
+/*Karun Kannan (kkannan1)
+ *Aurin Chakravarty (achakr16)
+ *
+ *10/17/16
+ *The main function that runs the program
+ */
+#include "menuUtil.h"
+#include "ppmIO.h"
+#include "imageManip.h"
+#include <stdio.h>
+
+int main () {
+  Pixel* array;
+  printMenu(array);
+  return 0;
+}
+>>>>>>> 72155ded9033f980a5fb129addc2d62c79fc6636
