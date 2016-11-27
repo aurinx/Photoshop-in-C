@@ -1,19 +1,4 @@
-###################################################
-# Sample Makefile for HW6
-# Ben Mitchell
-# 2015-09-24
-#
-# More advanced makefile than the one we used for HW4;
-# files are split between multiple directories.
-# Also uses generic rules and more advanced substitutions,
-# as well as automatic dependency calculation
-#
-###################################################
 
-###############################
-# path variables
-###############################
-# where to look for .h files
 INC_DIRS = ../include
 # where to put .o files
 OBJ_DIR = ./obj
