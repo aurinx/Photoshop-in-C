@@ -1,6 +1,5 @@
 /* ppmIO.c
  * Aurin Chakravarty (achakr16)
- * Karun Kannan (kkannan1)
  *
  * 10/17/16
  * Handles the input and output of files/images
