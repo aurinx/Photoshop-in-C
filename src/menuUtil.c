@@ -1,5 +1,5 @@
 /*menuUtil.c
- *Karun Kannan Aurin Chakravarty
+ *Aurin Chakravarty
  *10/16/16
  * 
  *Implements menu for the main function
