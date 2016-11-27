@@ -1,7 +1,5 @@
 /*imageManip.c
- *Karun Kannan (kkannan1)
- *Aurin Chakravarty (achakr16)
- *10/17/16
+ *Aurin Chakravarty
  *Holds functions that manipulate the image
  */
 #include "imageManip.h"
